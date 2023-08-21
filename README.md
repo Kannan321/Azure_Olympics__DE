@@ -2,15 +2,6 @@
 
 Welcome to the Olympics Data Engineering project on Azure! This project is designed to showcase how various Azure services can be utilized to ingest, store, transform, and analyze Olympics-related data. We have employed the following Azure services to achieve these goals:
 
-## Table of Contents
-
-- [Introduction to Tools](#introduction-to-tools)
-- [About the Project](#about-the-project)
-- [Architecture](#architecture)
-- [Structure](#structure)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-
 ## Introduction to Tools
 
 - **Azure Data Factory (ADF):** Used for data ingestion, Azure Data Factory allows us to efficiently collect data from various sources and move it to the desired destination. In this project, ADF is responsible for bringing in Olympics data from external sources.
@@ -33,21 +24,3 @@ To get started with this project, follow these steps:
 
 4. **Analytics:** Write SQL queries using Azure Synapse Analytics to gain insights from the transformed data. Identify trends, statistics, and patterns related to the Olympics data.
 
-## Architecture
-
-_Include a description of the architecture diagram or flowchart._
-
-## Structure
-
-_Explain the structure of the repository, key folders, and their purposes._
-
-## Prerequisites
-
-_List any prerequisites or setup steps that users need to complete before using the project._
-
-## Usage
-
-_Provide instructions on how to use the project, run scripts, and perform data analysis._
-
----
-_This project is created by [Your Name]. For questions or feedback, please contact [Your Email]._
